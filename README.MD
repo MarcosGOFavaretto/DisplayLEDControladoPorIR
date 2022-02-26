@@ -12,6 +12,10 @@ A aplicação foi desenvolvida em C, para o uso no Arduino Uno. Para o projeto, 
 - Display de 8 segmentos: Display LED utilizado para exibir a escolha feita pelo usuário.
 - Dois resistores de 500Ω: Resistores utilizados para proteger o circuito de possíveis sobrecargas.
 
+<div align="center">
+    <img src="https://github.com/MarcosGOFavaretto/DisplayLEDControladoPorIR/blob/main/circuito.png" width="700px">
+</div>
+
 ## ✒️ Autor
 
 - **Marcos Gabriel de Oliveira Favaretto**
